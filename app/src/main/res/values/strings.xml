@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Five Things About Batman</string>
     <string name="the_bat_signal">The Bat Signal</string>
+    <string name="app_title">Five Things About Batman</string>
 </resources>
